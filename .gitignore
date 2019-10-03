@@ -1,12 +1,14 @@
-Files without extension
+# Files without extension
 *
 !*/
 !*.*
 
+# Exclude .gitignore file
 !.gitignore
+
+# Ide related
 .idea*
 cmake-build-debug
-
 
 
 ## Standard c++ builds
